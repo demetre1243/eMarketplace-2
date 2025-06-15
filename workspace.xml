@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4016f5f9-57bd-45b3-a10b-2baae0579eb5" name="Changes" comment="git pull origin main">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/controller/MarketController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/controller/MarketController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/Advertisement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entity/Advertisement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/repository/AdvertisementRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/repository/AdvertisementRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/AdvertisementService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/AdvertisementService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/AdvertisementServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/AdvertisementServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/item.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/item.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/new-item.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/new-item.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/src/main/java/org/example/service/UserServiceImpl.java" />
+    </disable_hints>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "demetre1253"
+  }
+}]]></component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="ede9efa8-8b3c-4253-8d7f-06253db62962" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="ede9efa8-8b3c-4253-8d7f-06253db62962" />
+        <option name="url" value="https://github.com/demetre1243/eMarketplace.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2yHFDINArN4VmxS9f4oI1dNyrqe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/UserProfile/Downloads/eMarketplace&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/UserProfile/Downloads/eMarketplace/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+    ]
+  }
+}</component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4016f5f9-57bd-45b3-a10b-2baae0579eb5" name="Changes" comment="" />
+      <created>1749483471880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749483471880</updated>
+    </task>
+    <task id="LOCAL-00001" summary="git branch -m master main&#10;git push -u origin main">
+      <option name="closed" value="true" />
+      <created>1749486271321</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749486271322</updated>
+    </task>
+    <task id="LOCAL-00002" summary="git branch -m master main&#10;git push -u origin main">
+      <option name="closed" value="true" />
+      <created>1749486298548</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749486298548</updated>
+    </task>
+    <task id="LOCAL-00003" summary="git init&#10;git add .&#10;git commit -m &quot;Initial commit&quot;&#10;git branch -M master&#10;git remote add origin https://github.com/username/eMarketplace.git&#10;git push -u origin master">
+      <option name="closed" value="true" />
+      <created>1749486478474</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749486478474</updated>
+    </task>
+    <task id="LOCAL-00004" summary="git branch -m master main&#10;git push -u origin main">
+      <option name="closed" value="true" />
+      <created>1749486807487</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749486807487</updated>
+    </task>
+    <task id="LOCAL-00005" summary="git branch -m master main&#10;git push -u origin main">
+      <option name="closed" value="true" />
+      <created>1749486865103</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749486865103</updated>
+    </task>
+    <task id="LOCAL-00006" summary="git pull origin main --allow-unrelated-histories">
+      <option name="closed" value="true" />
+      <created>1749486871364</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1749486871364</updated>
+    </task>
+    <task id="LOCAL-00007" summary="git push origin main">
+      <option name="closed" value="true" />
+      <created>1749486977024</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1749486977024</updated>
+    </task>
+    <task id="LOCAL-00008" summary="git push origin main">
+      <option name="closed" value="true" />
+      <created>1749486985962</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1749486985962</updated>
+    </task>
+    <task id="LOCAL-00009" summary="git pull origin main --allow-unrelated-histories">
+      <option name="closed" value="true" />
+      <created>1749487058283</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1749487058283</updated>
+    </task>
+    <task id="LOCAL-00010" summary="git pull origin main --allow-unrelated-histories">
+      <option name="closed" value="true" />
+      <created>1749487263743</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1749487263743</updated>
+    </task>
+    <task id="LOCAL-00011" summary="git pull origin main --allow-unrelated-histories">
+      <option name="closed" value="true" />
+      <created>1749487283017</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1749487283017</updated>
+    </task>
+    <task id="LOCAL-00012" summary="git pull origin main --allow-unrelated-histories">
+      <option name="closed" value="true" />
+      <created>1749487301528</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1749487301528</updated>
+    </task>
+    <task id="LOCAL-00013" summary="git push origin main">
+      <option name="closed" value="true" />
+      <created>1749487321130</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1749487321130</updated>
+    </task>
+    <task id="LOCAL-00014" summary="git push -f origin main">
+      <option name="closed" value="true" />
+      <created>1749487416212</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1749487416212</updated>
+    </task>
+    <task id="LOCAL-00015" summary="git pull origin main">
+      <option name="closed" value="true" />
+      <created>1750008316065</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1750008316065</updated>
+    </task>
+    <task id="LOCAL-00016" summary="git pull origin main">
+      <option name="closed" value="true" />
+      <created>1750008327718</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1750008327718</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git init&#10;git add .&#10;git commit -m &quot;Initial commit&quot;&#10;git branch -M master&#10;git remote add origin https://github.com/username/eMarketplace.git&#10;git push -u origin master" />
+    <MESSAGE value="git branch -m master main&#10;git push -u origin main" />
+    <MESSAGE value="git pull origin main --allow-unrelated-histories" />
+    <MESSAGE value="git push origin main" />
+    <MESSAGE value="git push -f origin main" />
+    <MESSAGE value="git pull origin main" />
+    <option name="LAST_COMMIT_MESSAGE" value="git pull origin main" />
+  </component>
+</project>
